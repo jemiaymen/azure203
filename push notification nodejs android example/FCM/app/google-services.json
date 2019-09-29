@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1001089195101",
+    "firebase_url": "https://fcmazure-264c5.firebaseio.com",
+    "project_id": "fcmazure-264c5",
+    "storage_bucket": "fcmazure-264c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1001089195101:android:c1fed99182384b369741b4",
+        "android_client_info": {
+          "package_name": "com.jemix.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1001089195101-gcbmod4g13klqnipnbc30itiofm5ijd4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW4l-BejJh8CfsgQgMIrYpfSmHhy9CH9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1001089195101-gcbmod4g13klqnipnbc30itiofm5ijd4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
