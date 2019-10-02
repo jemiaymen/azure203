@@ -1,0 +1,17 @@
+{
+  "name": "storage-service",
+  "version": "0.0.0",
+  "description": "StorageService",
+  "scripts": {
+    "start": "node server"
+  },
+  "engines": {
+    "node": "~6.10.x"
+  },
+  "author": {
+    "name": "ajimi"
+  },
+  "dependencies": {
+    "azure-storage": "^2.10.3"
+  }
+}
